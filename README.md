@@ -1,5 +1,5 @@
 # DAW Project Hub
-Pequeña página web para practicar un flujo profesional de trabajo con Git y GitHub.
+Una página para conocer las fases del desarrollo y despliegue de una aplicación web.
 
 ## Entorno de Desarrollo
 
