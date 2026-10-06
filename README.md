@@ -44,7 +44,8 @@ En cambio, realizar un único commit con toda la página mezcla muchos cambios d
 
 ## Actualización remota
 
-Este cambio se ha realizado directamente desde GitHub para practicar `fetch` y `pull`.
+Para visualizar la página web, clona el repositorio localmente y abre el archivo `index.html` con un navegador web.
+
 
 ## Forks y colaboración
 
@@ -91,3 +92,4 @@ Sí. El repositorio original puede continuar recibiendo nuevos commits mientras 
 ### Resumen
 
 Un fork permite trabajar sobre una copia propia de un proyecto y proponer cambios al repositorio original sin necesidad de tener permisos de escritura en él. Las ramas sirven para organizar el desarrollo dentro de un repositorio, mientras que el fork separa el trabajo en otro repositorio. Cuando usamos un fork, `origin` suele representar nuestra copia y `upstream` el proyecto original.
+cambiado
