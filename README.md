@@ -44,7 +44,8 @@ En cambio, realizar un único commit con toda la página mezcla muchos cambios d
 
 ## Actualización remota
 
-Este cambio se ha realizado directamente desde GitHub para practicar `fetch` y `pull`.
+Para visualizar la página web, clona el repositorio localmente y abre el archivo `index.html` con un navegador web.
+
 
 ## Forks y colaboración
 
