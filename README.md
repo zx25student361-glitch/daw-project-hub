@@ -91,3 +91,4 @@ Sí. El repositorio original puede continuar recibiendo nuevos commits mientras 
 ### Resumen
 
 Un fork permite trabajar sobre una copia propia de un proyecto y proponer cambios al repositorio original sin necesidad de tener permisos de escritura en él. Las ramas sirven para organizar el desarrollo dentro de un repositorio, mientras que el fork separa el trabajo en otro repositorio. Cuando usamos un fork, `origin` suele representar nuestra copia y `upstream` el proyecto original.
+cambiado
